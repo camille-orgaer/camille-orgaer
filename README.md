@@ -39,8 +39,8 @@ int x, y ;
 ```
 
 ```python
-def func(){
-print("hello");
+def func() {
+print("hello") 
 }
 ```
 
