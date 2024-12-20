@@ -1,16 +1,52 @@
-## Hi there 👋
+# les basiques de markdown
 
-<!--
-**camille-orgaer/camille-orgaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## titre 2
 
-Here are some ideas to get you started:
+### titre 3
+ceci est un message en **gras** et en *italique*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### faire des listes 
+- item 1 
+- item 2
+  - item 2. 1
+  - item 2.2
+- item 3
+
+1. Item 1
+2. Item 2
+   1. Item 2.1
+   2. Item 2.2
+
+## todo
+
+-[X] Action 1
+- [X] Action 2
+- [X] Action 3
+
+### code
+
+```c
+int main(){
+return 0; 
+};
+```
+je vais faire un struc Player , comme ca: 
+
+```c
+struct p{
+int x, y ; 
+}; 
+```
+
+```python
+def func(){
+print("hello");
+}
+```
+
+### images
+![chien](https://picsum.photos/id/237/250)
+
+### equations
+
+$$ x^n + y^n = z^n $$
